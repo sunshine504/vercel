@@ -6,10 +6,10 @@
       logo: haidao.ico
       url: https://c.603666.xyz/
       description: 云剪切板
-    - title: Chatgpt镜像
-      logo: chatgpt.ico
-      url: https://gpt.anrsn.icu/
-      description: 不需要加速也能上
+    - title: DeepSeek
+      logo: deepseek.svg
+      url: https://chat.deepseek.com/
+      description: DeepSeek
     - title: Steam
       logo: steam.ico
       url: https://store.steampowered.com/
