@@ -5,7 +5,7 @@
     - title: 云剪切板
       logo: haidao.ico
       url: https://c.603666.xyz/
-      description: 备用cope.603666.xyz
+      description: 云剪切板
     - title: DeepSeek
       logo: deepseek.svg
       url: https://chat.deepseek.com/
@@ -51,7 +51,7 @@
       url: https://makerworld.com/zh
       description: Makerworl
 
-- taxonomy: 我的常用
+- taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
   list:
     - term: 本地服务
@@ -107,7 +107,7 @@
           logo: vercel.ico
           url: https://vercel.com/
           description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取 
-          
+
     - term: 游戏模组
       links:
         - title: switch520
@@ -224,7 +224,7 @@
           logo: baka.png
           url: https://bakamh.com/
           description: bakamh巴卡漫画 韩漫
-          
+
     - term: 代码编程
       links:
         - title: GitHub
@@ -279,7 +279,6 @@
           logo: xmind.ico
           url: https://xmind.cn/
           description: 方便思维导图的使用
-
     - term: 网盘资源
       links:
         - title: 百度网盘
