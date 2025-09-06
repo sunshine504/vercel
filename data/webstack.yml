@@ -5,7 +5,7 @@
     - title: 云剪切板
       logo: haidao.ico
       url: https://c.603666.xyz/
-      description: 云剪切板
+      description: 备用cope.603666.xyz
     - title: DeepSeek
       logo: deepseek.svg
       url: https://chat.deepseek.com/
@@ -51,7 +51,7 @@
       url: https://makerworld.com/zh
       description: Makerworl
 
-- taxonomy: 编程学习
+- taxonomy: 我的常用
   icon: fas fa-laptop-code fa-lg
   list:
     - term: 本地服务
@@ -107,61 +107,61 @@
           logo: vercel.ico
           url: https://vercel.com/
           description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取 
-
-    - term: 办公学习
+          
+    - term: 游戏模组
       links:
-        - title: GitHub
-          logo: github.ico
-          url: https://github.com/
-          description: 最热门知名的开源网站
-        - title: GitLab
-          logo: gitlab.ico
-          url: https://about.gitlab.com/
-          description: 开源的代码托管平台，类似于GitHub
-        - title: Gitee
-          logo: gitee.ico
-          url: https://gitee.com/
-          description: GitHub中国镜像站代理
-        - title: R2coding
-          logo: r2c.ico
-          url: https://r2coding.com/
-          description: 编程自学之路，是自学编程以来所用资源和分享内容的大聚合
-        - title: 语雀
-          logo: 语雀.ico
-          url: https://www.yuque.com/
-          description: 优雅高效的在线文档编辑与协同工具
-        - title: 清华大学开源
-          logo: 清华开源.ico
-          url: https://mirror.tuna.tsinghua.edu.cn/
-          description: 具有全球影响力的开源软件镜像站点
-        - title: 有道词典
-          logo: 有道词典.ico
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译
-        - title: 谷歌翻译
-          logo: 谷歌翻译.ico
-          url: https://translate.google.cn/
-          description: 谷歌翻译
-        - title: Paperpass
-          logo: paperpass.ico
-          url: https://www.paperpass.com/
-          description: 论文查重，每天免费一篇
-        - title: CSDN
-          logo: csdn.ico
-          url: https://www.csdn.net/
-          description: 中国最大的专业技术社区，包含了众多IT领域的技术文章和技术问答
-        - title: 掘金
-          logo: 掘金.ico
-          url: https://juejin.cn/
-          description: 程序员交流社区和学习平台
-        - title: V2ex
-          logo: v2ex.ico
-          url: https://www.v2ex.com/
-          description: 由设计师、程序员及有创意的人参与的社区
-        - title: Xmind
-          logo: xmind.ico
-          url: https://xmind.cn/
-          description: 方便思维导图的使用
+        - title: switch520
+          logo: xxxxx520.ico
+          url: https://www.gamer520.com/
+          description: 游戏破解，switch模拟
+        - title: SteamDB
+          logo: steamdb.svg
+          url: https://steamdb.info/
+          description: 查看steam数据和不同区域价格
+        - title: Steam主页美化
+          logo: steamdesign.ico
+          url: https://steam.design/
+          description: 想要不一样的steam主页设计？点我
+        - title: Epic
+          logo: epic.ico
+          url: https://www.epicgames.com/
+          description: 一个游戏开发与发行公司
+        - title: itcho
+          logo: itcho.ico
+          url: https://itch.io/
+          description: 致力于允许独立游戏制作者发布和销售其作品
+        - title: 3dm论坛
+          logo: 3dm.ico
+          url: https://bbs.3dmgame.com/forum.php
+          description: 游戏破解论坛
+        - title: 9dm论坛
+          logo: 9dm.ico
+          url: http://www.9damaogames.com/
+          description: 游戏破解论坛
+        - title: mcbbs
+          logo: mcbbs.ico
+          url: https://www.mcbbs.net/forum.php
+          description: 我的世界中文官方论坛
+        - title: Curseforge
+          logo: mod.ico
+          url: https://www.curseforge.com/minecraft/modpacks
+          description: 我的世界最全mod网站
+        - title: Nexus Mods
+          logo: nexus.webp
+          url: https://www.nexusmods.com/
+          description: 为 PC 游戏玩家提供 mod 的网站
+        - title: QooApp
+          logo: qooapp.webp
+          url: https://qoo-app.com
+          description: 国际服游戏平台
+        # - title: Gamelabs
+        #   logo: gl.ico
+        #   url: https://game.ero-labs.cloud/cn/
+        #   description: R18游戏集合
+        # - title: 老司机游玩
+        #   logo: lsj.ico
+        #   url: https://www.iolsj.xyz/
+        #   description: R18游戏集合
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -224,65 +224,61 @@
           logo: baka.png
           url: https://bakamh.com/
           description: bakamh巴卡漫画 韩漫
-
-    - term: 游戏模组
+          
+    - term: 代码编程
       links:
-        - title: Steam
-          logo: steam.ico
-          url: https://store.steampowered.com/
-          description: 大伙都在玩的游戏平台
-        - title: SteamDB
-          logo: steamdb.svg
-          url: https://steamdb.info/
-          description: 查看steam数据和不同区域价格
-        - title: Steam主页美化
-          logo: steamdesign.ico
-          url: https://steam.design/
-          description: 想要不一样的steam主页设计？点我
-        - title: Epic
-          logo: epic.ico
-          url: https://www.epicgames.com/
-          description: 一个游戏开发与发行公司
-        - title: itcho
-          logo: itcho.ico
-          url: https://itch.io/
-          description: 致力于允许独立游戏制作者发布和销售其作品
-        - title: 3dm论坛
-          logo: 3dm.ico
-          url: https://bbs.3dmgame.com/forum.php
-          description: 游戏破解论坛
-        - title: 9dm论坛
-          logo: 9dm.ico
-          url: http://www.9damaogames.com/
-          description: 游戏破解论坛
-        - title: xxxxx520
-          logo: xxxxx520.ico
-          url: https://xxxxx520.cam/
-          description: 游戏破解，switch模拟
-        - title: mcbbs
-          logo: mcbbs.ico
-          url: https://www.mcbbs.net/forum.php
-          description: 我的世界中文官方论坛
-        - title: Curseforge
-          logo: mod.ico
-          url: https://www.curseforge.com/minecraft/modpacks
-          description: 我的世界最全mod网站
-        - title: Nexus Mods
-          logo: nexus.webp
-          url: https://www.nexusmods.com/
-          description: 为 PC 游戏玩家提供 mod 的网站
-        - title: QooApp
-          logo: qooapp.webp
-          url: https://qoo-app.com
-          description: 国际服游戏平台
-        # - title: Gamelabs
-        #   logo: gl.ico
-        #   url: https://game.ero-labs.cloud/cn/
-        #   description: R18游戏集合
-        # - title: 老司机游玩
-        #   logo: lsj.ico
-        #   url: https://www.iolsj.xyz/
-        #   description: R18游戏集合
+        - title: GitHub
+          logo: github.ico
+          url: https://github.com/
+          description: 最热门知名的开源网站
+        - title: GitLab
+          logo: gitlab.ico
+          url: https://about.gitlab.com/
+          description: 开源的代码托管平台，类似于GitHub
+        - title: Gitee
+          logo: gitee.ico
+          url: https://gitee.com/
+          description: GitHub中国镜像站代理
+        - title: R2coding
+          logo: r2c.ico
+          url: https://r2coding.com/
+          description: 编程自学之路，是自学编程以来所用资源和分享内容的大聚合
+        - title: 语雀
+          logo: 语雀.ico
+          url: https://www.yuque.com/
+          description: 优雅高效的在线文档编辑与协同工具
+        - title: 清华大学开源
+          logo: 清华开源.ico
+          url: https://mirror.tuna.tsinghua.edu.cn/
+          description: 具有全球影响力的开源软件镜像站点
+        - title: 有道词典
+          logo: 有道词典.ico
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译
+        - title: 谷歌翻译
+          logo: 谷歌翻译.ico
+          url: https://translate.google.cn/
+          description: 谷歌翻译
+        - title: Paperpass
+          logo: paperpass.ico
+          url: https://www.paperpass.com/
+          description: 论文查重，每天免费一篇
+        - title: CSDN
+          logo: csdn.ico
+          url: https://www.csdn.net/
+          description: 中国最大的专业技术社区，包含了众多IT领域的技术文章和技术问答
+        - title: 掘金
+          logo: 掘金.ico
+          url: https://juejin.cn/
+          description: 程序员交流社区和学习平台
+        - title: V2ex
+          logo: v2ex.ico
+          url: https://www.v2ex.com/
+          description: 由设计师、程序员及有创意的人参与的社区
+        - title: Xmind
+          logo: xmind.ico
+          url: https://xmind.cn/
+          description: 方便思维导图的使用
 
     - term: 网盘资源
       links:
