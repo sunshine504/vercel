@@ -99,14 +99,14 @@
           logo: Makerworld.ico
           url: https://makerworld.com.cn/zh
           description: Makerworl中国站
+        - title: Vercel
+          logo: vercel.ico
+          url: https://vercel.com/
+          description: 轻松地构建、部署和扩展 Web 应用程序
         - title: 嘉立创EDA
           logo: 嘉立创.png
           url: https://u.lceda.cn/account/user/projects/all
           description: 嘉立创EDA
-        - title: Vercel
-          logo: vercel.ico
-          url: https://vercel.com/
-          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取 
         - title: OSHWhub
           logo: OSHWhub.ico
           url: https://oshwhub.com/
