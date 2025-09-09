@@ -30,10 +30,10 @@
       logo: openai.ico
       url: https://chat.openai.com/
       description: OpeanAi官方
-    - title: OSHWhub
-      logo: OSHWhub.ico
-      url: https://oshwhub.com/
-      description: 立创开源平台
+    - title: Gemini
+      logo: Gemini.png
+      url: https://gemini.google.com/app
+      description: 谷歌Gemini
     - title: Cloudflare
       logo: cloudflare.ico
       url: https://www.cloudflare.com/zh-cn/
@@ -107,6 +107,10 @@
           logo: vercel.ico
           url: https://vercel.com/
           description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取 
+        - title: OSHWhub
+          logo: OSHWhub.ico
+          url: https://oshwhub.com/
+          description: 立创开源平台
 
     - term: 游戏模组
       links:
